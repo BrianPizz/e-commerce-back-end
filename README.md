@@ -3,7 +3,7 @@
 
 ## Description
 * Project was built so a company can compete with other e-commerce companies
-* This project adds back end for a e-commerce website
+* This project adds back end for an e-commerce website
 * Throughout making this project I learned Object-Relational Mapping and Sequelize
 
 ## Table of Contents
@@ -19,7 +19,7 @@ Must have Node.js and MySQL installed
 ## Usage
 Run 'npm i', create db by running schema, run seeds, and run 'node server.js'
 
-[Walkthrough Video]()
+[Walkthrough Video](https://drive.google.com/file/d/1pCpKYsrKPwjSbQM_O8-bPITBgkZPwhh-/view)
 
 
 
